@@ -10,6 +10,8 @@
 - 📝 **working on**: tech education and outreach events as Head of Outreach at [Project Tech Conferences](http://projecttechconferences.com)
 - 🌱 **learning about**: minds and machines and the definition of "intelligence" in the technological realm 
 - 🔭 **exploring**: cybersecurity, CTFs 
-- 🎧 **listening to**: untrue (burial), 1619 & the daily (nyt)
+- 🎧 **listening to**:
+<iframe src="https://open.spotify.com/embed-podcast/show/3IM0lmZxpFAY7CwMuv9H4g" width="49%" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media" style="display:inline-block"></iframe>
+<iframe src="https://open.spotify.com/embed/album/1CI5OW60s9W41YLI80Jjdr" width="49%" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media" style="display:inline-block"></iframe>
 
 
