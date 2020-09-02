@@ -7,7 +7,7 @@
 - 🤗 **pronouns**: she/her/hers 
 
 ## currently...
-- 📝 **working on**: tech education and outreach events as Head of Outreach at [Project Tech Conferences](http://projecttechconferences.com)
+- 📝 **working on**: tech education and outreach events as the head of outreach at [Project Tech Conferences](http://projecttechconferences.com)
 - 🌱 **learning about**: minds and machines and the definition of "intelligence" in the technological realm 
 - 🔭 **exploring**: cybersecurity, CTFs 
 - 🎧 **listening to**: the daily (nyt) & untrue (burial)
