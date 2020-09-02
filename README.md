@@ -1,4 +1,4 @@
-# I'm Shirley!
+# Hi, I'm Shirley! 👋 
 
 ## about me
 - 💻 **previously**: 5G/LTE software tools development at Ericsson! 
