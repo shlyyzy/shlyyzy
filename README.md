@@ -1,7 +1,7 @@
 # Hi, I'm Shirley! 👋 
 
 ## about me
-- 💻 **previously**: 5G/LTE software tools development at Ericsson! 
+- 💻 **previously**: 5G/LTE software tools development at Ericsson 
 - 🤖 **currently**: full-time CS student at the University of British Columbia
 - 📫 **how to reach me**: [gmail](shirleyyzyang@gmail.com) ; [linkedin](https://www.linkedin.com/in/shirleyyzyang/)
 - 🤗 **pronouns**: she/her/hers 
