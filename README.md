@@ -11,3 +11,9 @@
 - 🌱 **learning about**: how to properly engage in the philosophical discourse (...and how to review films succinctly on letterboxd)
 - 🔭 **exploring**: the great outdoors && all the local record stores
 - 🎧 **streaming**: the new yorker: fiction, public strain - women, && maggot brain - funkadelic
+<!-- 
+[![Shirley's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlyyzy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shlyyzy&hide=CSS)](https://github.com/anuraghazra/github-readme-stats) -->
+## 
+[![Lastfm](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=shly0077&theme=dimmed&show_scrobbles=true)](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card)
+
