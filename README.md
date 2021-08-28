@@ -8,7 +8,7 @@
 
 ## currently...
 - 📝 **working on**: tech education, literacy, and outreach events as the head of outreach at [Project Tech Conferences](http://projecttechconferences.com)
-- 🌱 **learning about**: how to properly engage in the philosophical discourse (...and how to review films succinctly on letterboxd)
+- 🌱 **learning about**: how to properly engage in philosophy discourse (...and how to review films succinctly on letterboxd)
 - 🔭 **exploring**: the great outdoors && all the local record stores
 - 🎧 **streaming**: the new yorker: fiction, public strain - women, && maggot brain - funkadelic
 <!-- 
