@@ -1,8 +1,8 @@
 # Hi, I'm Shirley! 👋 
 
 ## about me
-- 💻 **previously**: 5G/LTE software tools developer intern @ Ericsson
-- 🤖 **now**: software developer intern at SAP & CS student @ the University of British Columbia
+- 💻 **previously**: developer intern @ Ericsson && SAP
+- 🤖 **now**: CS student @ the University of British Columbia
 - 📫 **how to reach me**: [gmail](mailto:shirleyyzyang@gmail.com) | [linkedin](https://www.linkedin.com/in/shirleyyzyang/) | [personal site](https://shlyyzy.github.io/)
 - 🤗 **pronouns**: she/her
 
