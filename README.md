@@ -1,7 +1,7 @@
 # Hi, I'm Shirley! 👋 
 
 ## about me
-- 💻 **previously**: developer intern @ Ericsson && SAP
+- 💻 **previously**: SWE intern @ Salesforce, Stripe, SAP, & Ericsson
 - 🤖 **now**: CS student @ the University of British Columbia
 - 📫 **how to reach me**: [gmail](mailto:shirleyyzyang@gmail.com) | [linkedin](https://www.linkedin.com/in/shirleyyzyang/) | [personal site](https://shlyyzy.github.io/)
 - 🤗 **pronouns**: she/her
@@ -9,8 +9,8 @@
 ## currently...
 - 📝 **working on**: tech education, literacy, and outreach events as the head of outreach @ [Project Tech Conferences](http://projecttechconferences.com)
 - 🌱 **learning about**: how to properly engage in philosophy discourse (...and how to review films succinctly on letterboxd)
-- 🔭 **exploring**: the great outdoors & all the local record stores
-- 🎧 **streaming**: the new yorker: fiction, public strain - women, & maggot brain - funkadelic
+- 🔭 **exploring**: the great outdoors, live shows, & all the local record stores
+- 🎧 **streaming**: radiolab, cindy lee - what's tonight to eternity
 
 <!-- 
 [![Shirley's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlyyzy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
