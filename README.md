@@ -2,7 +2,7 @@
 
 ## about me
 - 💻 **previously**: SWE intern @ Salesforce, Stripe, SAP, & Ericsson
-- 🤖 **now**: CS student @ the University of British Columbia
+- 🤖 **now**: rising senior studying computer science @ the University of British Columbia
 - 📫 **how to reach me**: [gmail](mailto:shirleyyzyang@gmail.com) | [linkedin](https://www.linkedin.com/in/shirleyyzyang/) | [personal site](https://shlyyzy.github.io/)
 - 🤗 **pronouns**: she/her
 
